@@ -1,0 +1,25 @@
+{
+  "id": "3b5de88e-a69f-4695-a71c-97bc7a679fc7",
+  "name": "AddIn Collection",
+  "publisher": "Dennis Reinecke",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0"
+}
